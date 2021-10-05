@@ -5,9 +5,9 @@ const help = (prefix) => {
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: Rengoku
+   ○ para agregar a este bot a un grupo de WhatsApp mandar mensaje a https://wa.me/1829602
+   ○ Instagram: https://www.instagram.com/keronte3
 
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
